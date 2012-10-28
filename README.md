@@ -8,7 +8,7 @@ All increments for width and height are 5 (5% and 5px).
 
 **Width**
 
-- Pixels - from 5px to 990px
+- Pixels - from 5px to 1280px
 - Percentage - from 5% to 100%
 
 **Height**
@@ -17,7 +17,12 @@ All increments for width and height are 5 (5% and 5px).
 
 **Padding**
 
-- Pixels - from 5px to 60px
+- Pixels - from 5px to 100px
+- Percentage - from 5% to 95%
+
+**Margin**
+
+- Pixels - from 5px to 100px
 - Percentage - from 5% to 95%
 
 ### Todo
@@ -25,7 +30,6 @@ All increments for width and height are 5 (5% and 5px).
 - Example layouts
 - Indepth usage explanation
 - Wider range of styles and sizes
-- Compressed version with minimal comments
 
 ### Credits
 
