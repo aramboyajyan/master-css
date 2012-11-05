@@ -30,6 +30,7 @@ All increments for width and height are 5 (5% and 5px).
 - Example layouts
 - Indepth usage explanation
 - Wider range of styles and sizes
+- Add more colors
 
 ### Credits
 

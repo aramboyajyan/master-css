@@ -10,6 +10,12 @@ Initial release.
 - Padding and margin increased to 100px
 - Font size increased to 32px
 
+### November 5, 2012
+
+- Added an example
+- Added line height values
+- Font size up to 60px
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
