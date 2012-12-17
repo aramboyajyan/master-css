@@ -16,6 +16,10 @@ Initial release.
 - Added line height values
 - Font size up to 60px
 
+### December 17, 2012
+
+More colors added.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).

@@ -30,11 +30,10 @@ All increments for width and height are 5 (5% and 5px).
 - Example layouts
 - Indepth usage explanation
 - Wider range of styles and sizes
-- Add more colors
 
 ### Credits
 
-- [normalize.css](http://necolas.github.com/normalize.css/) (v2.0.1)
+[normalize.css](http://necolas.github.com/normalize.css/) (v2.0.1)
 
 <hr>
 
