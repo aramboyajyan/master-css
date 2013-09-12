@@ -25,12 +25,6 @@ All increments for width and height are 5 (5% and 5px).
 - Pixels - from 5px to 100px
 - Percentage - from 5% to 95%
 
-### Todo
-
-- Example layouts
-- Indepth usage explanation
-- Wider range of styles and sizes
-
 ### Credits
 
 [normalize.css](http://necolas.github.com/normalize.css/) (v2.0.1)
