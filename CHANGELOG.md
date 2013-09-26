@@ -20,6 +20,10 @@ Initial release.
 
 More colors added.
 
+### September 26, 2013
+
+Adding `-lean` files without Normalize CSS.
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
