@@ -28,7 +28,7 @@ Instead of that, you can apply two classes: one for width and the other one for 
 - `w960` refers to `width:960px`
 - `ma` refers to `margin: 0 auto` (sets right and left margin to auto so the layout is displayed centered)
 
-Have a look at some [examples](https://github.com/topsitemakers/mastercss/tree/master/examples) to see how complete layouts are created. You will understand the framework in no time and it will allow you to use it without even thinking about it too much.
+Have a look at some [examples](https://github.com/topsitemakers/master-css/tree/master/examples) to see how complete layouts are created. You will understand the framework in no time and it will allow you to use it without even thinking about it too much.
 
 *Note:* if you are already using some reset stylesheet, you can use the `-lean` file as it does not include [normalize.css](http://necolas.github.io/normalize.css/).
 
