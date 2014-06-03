@@ -57,7 +57,7 @@ All increments for width and height are 5 (5% and 5px).
 
 ### Credits
 
-[normalize.css](http://necolas.github.com/normalize.css/) (v2.1.3)
+[normalize.css](http://necolas.github.com/normalize.css/) (v3.0.1)
 
 <hr>
 
